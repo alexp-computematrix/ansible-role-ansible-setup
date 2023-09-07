@@ -1,0 +1,4 @@
+---
+- src: https://github.com/alexp-computematrix/ansible-role-ansible-setup.git
+  version: main
+  name: ansible-setup
